@@ -8,13 +8,13 @@
 "7","Angola",2009,61
 "8","Angola",2008,69
 "9","Angola",2007,73
-"10","Angola",2006,NA
-"11","Angola",2005,NA
-"12","Angola",2004,NA
-"13","Angola",2003,NA
-"14","Angola",2002,NA
-"15","Angola",2001,NA
-"16","Angola",2000,NA
+"10","Angola",2006,70
+"11","Angola",2005,69
+"12","Angola",2004,65
+"13","Angola",2003,71
+"14","Angola",2002,63
+"15","Angola",2001,65
+"16","Angola",2000,66
 "17","Australia",2015,93
 "18","Australia",2014,91
 "19","Australia",2013,91
@@ -30,7 +30,7 @@
 "29","Australia",2003,95
 "30","Australia",2002,95
 "31","Australia",2001,94
-"32","Australia",2000,NA
+"32","Australia",2000,94
 "33","Canada",2015,55
 "34","Canada",2014,55
 "35","Canada",2013,55
@@ -44,9 +44,9 @@
 "43","Canada",2005,14
 "44","Canada",2004,14
 "45","Canada",2003,14
-"46","Canada",2002,NA
-"47","Canada",2001,NA
-"48","Canada",2000,NA
+"46","Canada",2002,15
+"47","Canada",2001,13
+"48","Canada",2000,13
 "49","Chad",2015,46
 "50","Chad",2014,37
 "51","Chad",2013,39
@@ -55,14 +55,14 @@
 "54","Chad",2010,39
 "55","Chad",2009,24
 "56","Chad",2008,17
-"57","Chad",2007,NA
-"58","Chad",2006,NA
-"59","Chad",2005,NA
-"60","Chad",2004,NA
-"61","Chad",2003,NA
-"62","Chad",2002,NA
-"63","Chad",2001,NA
-"64","Chad",2000,NA
+"57","Chad",2007,25
+"58","Chad",2006,27
+"59","Chad",2005,28
+"60","Chad",2004,20
+"61","Chad",2003,17
+"62","Chad",2002,18
+"63","Chad",2001,20
+"64","Chad",2000,18
 "65","France",2015,86
 "66","France",2014,83
 "67","France",2013,74
@@ -108,9 +108,9 @@
 "107","Lesotho",2005,87
 "108","Lesotho",2004,6
 "109","Lesotho",2003,17
-"110","Lesotho",2002,NA
-"111","Lesotho",2001,NA
-"112","Lesotho",2000,NA
+"110","Lesotho",2002,8
+"111","Lesotho",2001,10
+"112","Lesotho",2000,9
 "113","Nigeria",2015,49
 "114","Nigeria",2014,49
 "115","Nigeria",2013,46
@@ -122,11 +122,11 @@
 "121","Nigeria",2007,42
 "122","Nigeria",2006,27
 "123","Nigeria",2005,18
-"124","Nigeria",2004,NA
-"125","Nigeria",2003,NA
-"126","Nigeria",2002,NA
-"127","Nigeria",2001,NA
-"128","Nigeria",2000,NA
+"124","Nigeria",2004,20
+"125","Nigeria",2003,22
+"126","Nigeria",2002,18
+"127","Nigeria",2001,19
+"128","Nigeria",2000,20
 "129","Sierra Leone",2015,86
 "130","Sierra Leone",2014,83
 "131","Sierra Leone",2013,92
@@ -136,13 +136,13 @@
 "135","Sierra Leone",2009,84
 "136","Sierra Leone",2008,77
 "137","Sierra Leone",2007,63
-"138","Sierra Leone",2006,NA
-"139","Sierra Leone",2005,NA
-"140","Sierra Leone",2004,NA
-"141","Sierra Leone",2003,NA
-"142","Sierra Leone",2002,NA
-"143","Sierra Leone",2001,NA
-"144","Sierra Leone",2000,NA
+"138","Sierra Leone",2006,70
+"139","Sierra Leone",2005,67
+"140","Sierra Leone",2004,68
+"141","Sierra Leone",2003,70
+"142","Sierra Leone",2002,72
+"143","Sierra Leone",2001,69
+"144","Sierra Leone",2000,67
 "145","Spain",2015,97
 "146","Spain",2014,96
 "147","Spain",2013,95
